@@ -1,6 +1,6 @@
 ENG: One of the main things that MATLAB does well is to plot functions in order to provide data for the user to evaluate. 
 In this repository, you can find different plots of functions, some of them can return interesting shapes. 
-Other ones can be used to plot functions that depict flight paths and electrical power, both of which can be useful for engineering applications. 
+Other ones can be used to plot functions that depict flight paths, electrical power and efficiencies, both of which can be useful for engineering applications. 
 
 
 中文: 绘制函数图像是MATLAB的主要功能之一，能够帮助用户分析数据。
