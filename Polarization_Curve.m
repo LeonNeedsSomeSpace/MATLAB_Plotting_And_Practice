@@ -1,4 +1,4 @@
-% Create a polarization curve for electromechanical components
+% Create a polarization curve for electrochemical components
 
 % Define constants
 R = 8.314; % Universal gas constant [J/molK^-1]
@@ -10,7 +10,7 @@ alpha = 0.5; % Change transfer coefficient
 T = 353; % Operating Temperature [K]
 T_ref = 288; % Reference Temperature [K]
 
-% Electromechanical parameters
+% Electrochemical parameters
 J0 = 1e-3; % Exchange current density [Am^2]
 R_area = 0.25; % Area-specific density [Ohm*m^2]
 k_th = 1e-3; % Thermal loss coefficient [V/K]
